@@ -9,7 +9,7 @@
 
 <body>
     <h2>Diabetes Prediction Form</h2>
-    <form method="get" action="Lab15FormHandler.php">
+    <form method="get" action="Submit.php">
 
         <label for="arg_pregnant">Pregnancies:</label>
         <input type="text" name="arg_pregnant" ><br>
@@ -95,5 +95,4 @@
     ?>
 
 </body>
-
 </html>
